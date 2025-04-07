@@ -1,0 +1,10 @@
+{
+  "network": "BSC_SEPOLIA",
+  "factoryAddress": "0x4CAB221e7883Cb21130BE7665495a83B6375b454",
+  "implementationAddress": "0xA6851DEcf39de03F47139Ef309AC98ABb1CA7821",
+  "implementationSalt": "0xb85ffd88526cbea86877f17408bc7246a19aa9180befb6587b41cc02b4490990",
+  "proxyAddress": "0x2A5e2DF33540e1321715458F30F3b167Ca06dd15",
+  "proxySalt": "0x94283c20125d45281c9af50809153cdfc3391c8c7c015ee144786acdb38bc06c",
+  "owner": "0x0AEc41448bA2441C450201c11FF47e50b8Bd1343",
+  "deploymentDate": "2025-04-07T20:00:17.420Z"
+}
