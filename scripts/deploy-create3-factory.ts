@@ -4,7 +4,7 @@ import path from "path";
 
 async function main() {
     const [deployer, executor, user, attacker, sameAddressSigner] = await ethers.getSigners();
-    console.log(await ethers.getSigners());
+
     console.log("Deploying CREATE3Factory with the account:", sameAddressSigner.address);
 
     // Get the current nonce
