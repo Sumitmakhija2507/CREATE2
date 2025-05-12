@@ -1,0 +1,16 @@
+{
+  "network": "BASE_SEPOLIA",
+  "factoryAddress": "0xA601408758D3046542d366A857D285F10d0aEa62",
+  "implementation": {
+    "address": "0xD44DA9F00B29750c540B747BB76Efb94Be8206D4",
+    "saltString": "EXAMPLECONTRACT_IMPLEMENTATION",
+    "salt": "0xc121377b145494728de2083e3db9b66a53547a477d9578cfaf9c66288c875e6a"
+  },
+  "proxy": {
+    "address": "0x55C4ab18388712396F1FB848DAC1a43160cE54A8",
+    "saltString": "EXAMPLECONTRACT_PROXY",
+    "salt": "0xaade61d42192362724982be97f1d7f99ca07ae8b21fbb21a00e6b9db821e0d7b"
+  },
+  "owner": "0x03CbE00AF8F6F6Ec066984cEf38A4402128A6253",
+  "deploymentDate": "2025-05-12T07:26:44.237Z"
+}

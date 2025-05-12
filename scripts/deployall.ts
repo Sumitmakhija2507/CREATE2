@@ -13,8 +13,8 @@ async function main() {
 
         try {
 
-                console.log(`\n1. Deploying CREATE3Factory on ${networkName}...`);
-                const factoryResult = await execAsync(`npx hardhat run scripts/deploy-create3-factory.ts --network ${networkName}`);
+                console.log(`\n1. Deploying CREATE2Factory on ${networkName}...`);
+                const factoryResult = await execAsync(`npx hardhat run scripts/deploy-create2-factory.ts --network ${networkName}`);
                 console.log(factoryResult.stdout);
                 if (factoryResult.stderr) console.error(factoryResult.stderr);
 

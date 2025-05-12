@@ -1,0 +1,15 @@
+{
+  "network": "ARBITRUM_SEPOLIA",
+  "implementation": {
+    "address": "0x4e5B25d8Ae0E62d6Fd3AFfe736Acd239AA4f72c7",
+    "saltString": "ExampleContract_Implementation_v1_a",
+    "salt": "0xfa78ec9a997cfd999c7b6fc184e69114684df2d80bccbb506f58268faabf74ff"
+  },
+  "proxy": {
+    "address": "0x52483Eb5Dd5E768f75CcaDd5968aba9f884CdE31",
+    "saltString": "ExampleContract_Proxy_v1_a",
+    "salt": "0x2cf2580db9776154ddcaae436db56df83a9d67def53d11ed5637493fda4ae6e3"
+  },
+  "deployedBy": "0x901b199c524c49ABc6F8c3DecF6B24b04c8a6A2b",
+  "deployedAt": "2025-05-12T06:11:47.532Z"
+}

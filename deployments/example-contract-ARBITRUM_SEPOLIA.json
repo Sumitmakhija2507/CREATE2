@@ -1,0 +1,7 @@
+{
+  "network": "ARBITRUM_SEPOLIA",
+  "implementation": "0x0BfA796438A5F88EC0A7be2f57bBE4cE635D91b9",
+  "proxy": "0x6005382dFB24791e73CAE4A701a2441d8bF99486",
+  "deployedBy": "0x901b199c524c49ABc6F8c3DecF6B24b04c8a6A2b",
+  "deployedAt": "2025-05-12T05:44:29.555Z"
+}
