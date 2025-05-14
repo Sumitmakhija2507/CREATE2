@@ -1,5 +1,3 @@
----
-
 # CREATE2 in Solidity: Deterministic Smart Contract Deployment Across All EVM-Compatible Blockchains
 
 `CREATE2` is a powerful opcode in the Ethereum Virtual Machine (EVM) that enables smart contracts to be deployed at **predictable, deterministic addresses** — a critical feature for cross-chain deployments, counterfactual wallets, and modular smart contract systems.
