@@ -68,6 +68,16 @@ keccak256(0xff ++ deployer_address ++ salt ++ keccak256(bytecode))[12:]
 
 ---
 
+## 🔄 CREATE vs CREATE2 — Key Differences
+
+| Feature                   | `CREATE`                     | `CREATE2`                          |
+| ------------------------- | ---------------------------- | ---------------------------------- |
+| Address Depends On        | Sender + Nonce               | Sender + Salt + Bytecode           |
+| Predictable Address       | ❌ No                         | ✅ Yes                              |
+| Re-deploy to Same Address | ❌ Not Possible               | ✅ As long as bytecode is the same  |
+| Multi-chain Consistency   | ❌ Deployers differ per chain | ⚠️ Must use same deployer and salt |
+
+
 ## 📁 Project Structure
 
 ```bash
