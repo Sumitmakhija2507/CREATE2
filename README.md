@@ -108,8 +108,7 @@ keccak256(0xff ++ deployer_address ++ salt ++ keccak256(bytecode))[12:]
 ### ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/create2-crosschain-deployment.git
-cd create2-crosschain-deployment
+clone 
 npm install
 ```
 
